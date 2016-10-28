@@ -1,0 +1,13 @@
+Tested on debian jessie 8.6 with gnome3
+// save "arduino.desktop" to ~/.local/share/applications
+// start of code
+arduino.desktop 
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Arduino
+Comment=Application description
+Icon=/home/cwc/icons/arduino-cwc.png
+Exec=/opt/arduino/arduino
+Terminal=false
+Categories=Tags;Describing;Application
